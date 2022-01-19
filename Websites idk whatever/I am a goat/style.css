@@ -54,8 +54,8 @@ img{
 #biography{
 	color: black;
     position: relative;
-    position: relative;
     right: -345px;
     top: -941px;
     font-size: 20px;
+    z-index: 2;
 }
