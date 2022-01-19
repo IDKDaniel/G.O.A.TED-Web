@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	letter-spacing: 7px;
+}
+
+h1{ 
+	font-size:72px;
+	color: black;
+	background-color: white;
+	font-family: 'Bebas Neue', cursive;
+}
